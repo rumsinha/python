@@ -1,2 +1,2 @@
-# python
-python concepts
+# Python
+understanding Python key concepts
